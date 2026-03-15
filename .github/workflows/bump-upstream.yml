@@ -3,7 +3,7 @@ name: Check upstream plugin updates
 on:
   workflow_dispatch: # Allow manual trigger
   schedule:
-    - cron: '0 9 * * 1' # Weekly on Monday at 9am UTC
+    - cron: '0 9 * * *' # Daily at 9am UTC
 
 permissions:
   contents: write
