@@ -15,7 +15,7 @@
         "source": "git-subdir",
         "url": "https://github.com/garrytan/gstack.git",
         "path": "plan-ceo-review",
-        "sha": "d078622b73539fc1a7a27e709861e9b6b058ae98"
+        "sha": "008dd65b1fc3df8af618408f5aea37a24dcea411"
       },
       "description": "CEO/founder-mode plan review — rethink the problem, find the 10-star product, challenge premises, expand scope",
       "author": {
@@ -28,7 +28,7 @@
         "product"
       ],
       "strict": false,
-      "version": "sha-d078622"
+      "version": "sha-008dd65"
     },
     {
       "name": "plan-eng-review",
@@ -36,7 +36,7 @@
         "source": "git-subdir",
         "url": "https://github.com/garrytan/gstack.git",
         "path": "plan-eng-review",
-        "sha": "d078622b73539fc1a7a27e709861e9b6b058ae98"
+        "sha": "008dd65b1fc3df8af618408f5aea37a24dcea411"
       },
       "description": "Eng manager-mode plan review — lock in architecture, data flow, edge cases, test coverage, performance",
       "author": {
@@ -49,7 +49,7 @@
         "architecture"
       ],
       "strict": false,
-      "version": "sha-d078622"
+      "version": "sha-008dd65"
     },
     {
       "name": "review",
@@ -57,7 +57,7 @@
         "source": "git-subdir",
         "url": "https://github.com/garrytan/gstack.git",
         "path": "review",
-        "sha": "d078622b73539fc1a7a27e709861e9b6b058ae98"
+        "sha": "008dd65b1fc3df8af618408f5aea37a24dcea411"
       },
       "description": "Pre-landing PR review — analyzes diff against main for SQL safety, LLM trust boundary violations, and structural issues",
       "author": {
@@ -70,7 +70,7 @@
         "code-quality"
       ],
       "strict": false,
-      "version": "sha-d078622"
+      "version": "sha-008dd65"
     },
     {
       "name": "ship",
@@ -78,7 +78,7 @@
         "source": "git-subdir",
         "url": "https://github.com/garrytan/gstack.git",
         "path": "ship",
-        "sha": "d078622b73539fc1a7a27e709861e9b6b058ae98"
+        "sha": "008dd65b1fc3df8af618408f5aea37a24dcea411"
       },
       "description": "Ship workflow — merge main, run tests, review diff, bump VERSION, update CHANGELOG, commit, push, create PR",
       "author": {
@@ -92,7 +92,7 @@
         "changelog"
       ],
       "strict": false,
-      "version": "sha-d078622"
+      "version": "sha-008dd65"
     }
   ]
 }
